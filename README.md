@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
+![Name](https://github.com/alexislcovarrubias/img/blob/master/banner1.png)
 
 <!--
 **alexislcovarrubias/alexislcovarrubias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
