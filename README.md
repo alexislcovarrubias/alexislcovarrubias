@@ -1,6 +1,12 @@
-### Hola Bienvenidos<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
+## Hola Bienvenidos<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
 ![Name](https://github.com/alexislcovarrubias/img/blob/master/banner1.png)
+
+## Sobre mí
+
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado a la ciberseguridad en constante aprendizaje. Mi objetivo es convertirme en un experto en este campo ,siempre abierto a colaboraciones y discusiones sobre ciberseguridad y tecnología.. 
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
 
 <!--
 **alexislcovarrubias/alexislcovarrubias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
