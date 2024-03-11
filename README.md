@@ -84,3 +84,5 @@ Algunas de las herramientas ,  lenguajes y procesadores que eh usado son los sig
 - 📜 Certificado **Ethical Hacking Certified Associate (EHCA)**.
 - 📚 Cursos en la **Academia ArtistCode** para fortalecer mis habilidades en ciberseguridad.
 
+- 
+
