@@ -1,7 +1,7 @@
 ## Hola Bienvenidos<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
+![Error](https://github.com/alexislcovarrubias/img/blob/master/banner1.png?raw=true)
 
-![Name](https://github.com/alexislcovarrubias/img/blob/master/banner1.png)
 
 ## Sobre mí
 
