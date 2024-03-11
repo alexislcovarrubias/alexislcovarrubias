@@ -85,5 +85,14 @@ Algunas de las herramientas ,  lenguajes y procesadores que eh usado son los sig
 - 📜 Certificado **Ethical Hacking Certified Associate (EHCA)**.
 - 📚 Cursos en la **Academia ArtistCode** para fortalecer mis habilidades en ciberseguridad.
 
-- 
+### Certificaciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alexislcovarrubias/img/master/badget1.png" alt="Certificado 1" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/alexislcovarrubias/img/master/badget2.png" alt="Certificado 2" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/alexislcovarrubias/img/master/badget3.png" alt="Certificado 3" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/alexislcovarrubias/img/master/badget4.png" alt="Certificado 4" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/alexislcovarrubias/img/master/badget5.png" alt="Certificado 5" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/alexislcovarrubias/img/master/badget6.png" alt="Certificado 6" width="100" height="100"/>
+</p>
 
