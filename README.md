@@ -10,7 +10,7 @@
 
 ## <h3 align="left">Languages and Tools:</h3>
 Algunas de las herramientas ,  lenguajes y procesadores que eh usado son los siguientes:
-<p align="left">
+<p align="center">
   <!-- Lenguajes de programación -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
