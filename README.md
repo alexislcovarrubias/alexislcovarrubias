@@ -65,20 +65,23 @@ Algunas de las herramientas ,  lenguajes y procesadores que eh usado son los sig
 </p>
 
 
+### Experiencia y Proyectos
+
+- 💼 Experiencia en pruebas de penetración voluntarias y proyectos personales de ciberseguridad.
+- 🎓 Estudiante de Pentester Mentor Junior en HackerMentor.
+
+### Proyectos Universitarios
+
+He participado en proyectos escolares como lo son:
+
+- 🎓 Estudiante de Pentester Mentor Junior en HackerMentor.
+- 👁️‍🗨️ Operaciones en la Darknet
+- 💡 Trabajo en equipo y resolución de problemas en entornos del mundo real.
+
+### Certificaciones
+
+- 📜 Certificado **Pentester Mentor Junior (PMJ)**.
+- 📜 Certificado **Ethical Hacking Certified Associate (EHCA)**.
+- 📚 Cursos en la **Academia ArtistCode** para fortalecer mis habilidades en ciberseguridad.
 
 
-
-<!--
-**alexislcovarrubias/alexislcovarrubias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
