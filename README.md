@@ -83,7 +83,11 @@ Algunas de las herramientas ,  lenguajes y procesadores que eh usado son los sig
 
 - 📜 Certificado **Pentester Mentor Junior (PMJ)**.
 - 📜 Certificado **Ethical Hacking Certified Associate (EHCA)**.
-- 📚 Cursos en la **Academia ArtistCode** para fortalecer mis habilidades en ciberseguridad.
+- 📜 CCNA Routing and Switching: Principios básicos de routing y switching (Cisco)
+- 📜 IoT Fundamentals: Connecting Things (Cisco
+- 📜 Hacking Day Principiante (White Suit Hacking)
+- 📜 Lead CyberSecurity Professional Certification (LCSPC)
+- 📜 Operaciones en la Darknet 
 
 
 <p align="center">
