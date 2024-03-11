@@ -68,14 +68,12 @@ Algunas de las herramientas ,  lenguajes y procesadores que eh usado son los sig
 ### Experiencia y Proyectos
 
 - 💼 Experiencia en pruebas de penetración voluntarias y proyectos personales de ciberseguridad.
+- 📈 Pruebas unitarias y control de calidad (QA).
+- 🖥️ Rediseño de una Intranet.
+- 📱 Desarollo de Aplicaciones Moviles
+- 💻 Desarollo de Aplicaciones Web
 - 🎓 Estudiante de Pentester Mentor Junior en HackerMentor.
-
-### Proyectos Universitarios
-
-He participado en proyectos escolares como lo son:
-
-- 🎓 Estudiante de Pentester Mentor Junior en HackerMentor.
-- 👁️‍🗨️ Operaciones en la Darknet
+- 👁️‍🗨️ Operaciones en la Darknet.
 - 💡 Trabajo en equipo y resolución de problemas en entornos del mundo real.
 
 ### Certificaciones
