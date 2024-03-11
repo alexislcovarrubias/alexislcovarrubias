@@ -113,7 +113,7 @@ Algunas de las herramientas ,  lenguajes y procesadores que eh usado son los sig
 
 
 <div align="center">
-  ![Gear2](https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/Gear2_v05.png)
+  <img align="center" src="https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/Gear2_v05.png" height="33px" /></h3> 
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
