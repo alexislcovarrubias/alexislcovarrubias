@@ -106,7 +106,7 @@ Algunas de las herramientas ,  lenguajes y procesadores que eh usado son los sig
   <img src="https://raw.githubusercontent.com/alexislcovarrubias/img/master/badget1.png" alt="Certificado 1" width="100" height="100"/>
   <img src="https://raw.githubusercontent.com/alexislcovarrubias/img/master/operaciones%20en%20la%20darknet.png" alt="Operaciones en la Darknet" width="100" 
    height="100"/>
-  <img src="https://raw.githubusercontent.com/alexislcovarrubias/img/master/badgte4.png" alt="Badget 4" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/alexislcovarrubias/img/master/badgte4.png" alt="Badget 4" width="98" height="98"/>
   <img src="https://raw.githubusercontent.com/alexislcovarrubias/img/master/badget5.png" alt="Certificado 5" width="100" height="100"/>
   <img src="https://raw.githubusercontent.com/alexislcovarrubias/img/master/badget6.png" alt="Certificado 6" width="100" height="100"/>
 </p>
