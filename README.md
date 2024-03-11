@@ -112,22 +112,15 @@ Algunas de las herramientas ,  lenguajes y procesadores que eh usado son los sig
 </p>
 
 
-## ¡Echa un vistazo a mis Portafolios en línea! 🚀
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+<p align="center">
+ <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+  <br/>
+  <br/>
+  Gracias por visitarme <br/>
+</p>
 
-🌐🐱📚 ¡Explora [Mi Portafolio en BriefCase](https://jonathanjesus03.github.io/Briefcase/) para descubrir algunos de mis proyectos más destacados, logros y contribuciones en el emocionante campo de la ciberseguridad!
-
-🔍 ¿Estás listo para sumergirte en el emocionante mundo de la ciberseguridad? ¡Entonces, bienvenido a mi **Portafolio Profesional de Informes en Seguridad Cibernética** en GitHub! 😊🚀
-
-Este portafolio es una ventana a mi pasión por la seguridad informática y mi dedicación a explorar desafíos y proyectos en este emocionante campo. Aquí, encontrarás una colección de mis informes más recientes, cuidadosamente presentados al estilo de mi portafolio BriefCase.
-
-[**¡Accede a mi Portafolio Profesional de Informes en Seguridad Cibernética!**](https://github.com/jonathanjesus03/Report-Hub-for-Petereport-and-Blackstone)   <-- HAZ CLICK !!!
-
-Dentro de mi portafolio, podrás explorar informes detallados, análisis y auditorías en máquinas virtuales, desafíos de ciberseguridad y más. ¿Listo para el desafío? ¡Solo tienes que hacer clic en los enlaces y comenzar a explorar!
-
-Descubre lo que he aprendido, las soluciones que he encontrado y cómo abordo los desafíos en el mundo de la ciberseguridad. ¡Acompáñame en este viaje lleno de emoción y aprendizaje! 🚀
-
-#### Algunos de los aspectos destacados de mi portafolio incluyen:
-
-- 💼 **Proyectos de Ciberseguridad**: Explora mis proyectos y desafíos relacionados con la ciberseguridad, donde he aplicado mis habilidades de pentesting y auditoría de seguridad.
-
-- 🎓 **Formación y Certificaciones**: Me enorgullece haber obtenido el Certificado **Pentester Mentor Junior (PMJ)** y el Certificado **Ethical Hacking Certified Associate (EHCA)**. Además, he completado cursos en la **Academia ArtistCode** para fortalecer mis habilidades.
