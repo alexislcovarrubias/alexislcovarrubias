@@ -19,6 +19,9 @@ Algunas de las herramientas ,  lenguajes y procesadores que eh usado son los sig
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
 
   <!-- Frameworks y editores de código -->
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
@@ -53,9 +56,6 @@ Algunas de las herramientas ,  lenguajes y procesadores que eh usado son los sig
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
@@ -63,6 +63,7 @@ Algunas de las herramientas ,  lenguajes y procesadores que eh usado son los sig
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/unrealengine.svg" alt="Unreal Engine" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ### Experiencia y Proyectos
@@ -81,5 +82,4 @@ Algunas de las herramientas ,  lenguajes y procesadores que eh usado son los sig
 - 📜 Certificado **Pentester Mentor Junior (PMJ)**.
 - 📜 Certificado **Ethical Hacking Certified Associate (EHCA)**.
 - 📚 Cursos en la **Academia ArtistCode** para fortalecer mis habilidades en ciberseguridad.
-
 
