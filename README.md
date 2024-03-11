@@ -70,6 +70,8 @@ Algunas de las herramientas ,  lenguajes y procesadores que eh usado son los sig
 
 ### Experiencia y Proyectos
 
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
 - 💼 Experiencia en pruebas de penetración voluntarias y proyectos personales de ciberseguridad.
 - 📈 Pruebas unitarias y control de calidad (QA).
 - 🖥️ Rediseño de una Intranet.
