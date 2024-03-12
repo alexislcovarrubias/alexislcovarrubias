@@ -112,6 +112,12 @@ Algunas de las herramientas ,  lenguajes y procesadores que eh usado son los sig
 </p>
 
 
+### ¡Echa un vistazo a mis Portafolios en línea! 🚀
+
+ Dejo mi portafolio donde encontraras informes de retos y desafios que eh echo para vulenrar de maquinas virtuales. 
+
+🌐🐱📚 ¡Explora [Mi Portafolio](https://alexislcovarrubias.github.io/) para descubrir algunos de mis proyectos más destacados, logros y contribuciones en el emocionante campo de la ciberseguridad!
+
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
